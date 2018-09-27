@@ -27,19 +27,20 @@ Stock Analyse System
 本系统使用网络爬虫技术，结合新浪的股票数据库采集数据集，然后通过sklearn框架进行数据的学习与预测。
 
 ### 系统框架图：
-
+https://github.com/chuochuoyouyugroup/Stock/blob/master/21.png
 ### 数据流程图：
-
+https://github.com/chuochuoyouyugroup/Stock/blob/master/22.png
 ### 用户操作流程及运行结果：
-
+https://github.com/chuochuoyouyugroup/Stock/blob/master/23.png
 1.用户输入股票代码。
-
+https://github.com/chuochuoyouyugroup/Stock/blob/master/24.png
 2.程序发送request请求到新浪股票数据库，采集从2000年开始到最近一个工作日的股票涨跌数据。如果这支股票在2000年以后才出现，则采集从发行日开始的数据。采集到的每天的数据都会输出到屏幕，格式为“日期+当日涨跌幅”。如图所示。
-
+https://github.com/chuochuoyouyugroup/Stock/blob/master/25.png
 3.采集数据完成后，程序将历年股票涨跌情况绘制成图表，展示在屏幕上。
-
+https://github.com/chuochuoyouyugroup/Stock/blob/master/26.png
 4.然后程序利用已有数据进行模型的训练，以及模型有效性分析，并把有效性分析的结果显示在屏幕上。以下图为例，测试集中共有441组数据，其中299组属于预测和实际相符的情况，计算得知总正确率为67.8%。
-
+https://github.com/chuochuoyouyugroup/Stock/blob/master/27.png
 5.程序把最近20天的涨跌情况绘制成图表并显示。
-
+https://github.com/chuochuoyouyugroup/Stock/blob/master/28.png
 6.根据最近20天的涨跌情况，训练好的模型预测明日股票涨跌情况。
+https://github.com/chuochuoyouyugroup/Stock/blob/master/29.png
