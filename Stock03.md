@@ -27,7 +27,7 @@ Stock Analyse System
 本系统使用网络爬虫技术，结合新浪的股票数据库采集数据集，然后通过sklearn框架进行数据的学习与预测。
 
 ### 系统框架图：
-https://github.com/chuochuoyouyugroup/Stock/blob/master/21.png
+！(https://github.com/chuochuoyouyugroup/Stock/blob/master/21.png)
 ### 数据流程图：
 https://github.com/chuochuoyouyugroup/Stock/blob/master/22.png
 ### 用户操作流程及运行结果：
