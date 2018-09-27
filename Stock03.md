@@ -29,7 +29,7 @@ Stock Analyse System
 ### 系统框架图：
 ！(https://github.com/chuochuoyouyugroup/Stock/blob/master/21.png)
 ### 数据流程图：
-https://github.com/chuochuoyouyugroup/Stock/blob/master/22.png
+![](https://github.com/chuochuoyouyugroup/Stock/blob/master/22.png)
 ### 用户操作流程及运行结果：
 https://github.com/chuochuoyouyugroup/Stock/blob/master/23.png
 1.用户输入股票代码。
