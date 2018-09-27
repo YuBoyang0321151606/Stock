@@ -28,7 +28,7 @@ Stock Analyse System
 
 ### 系统框架图：
 
-！[](https://github.com/chuochuoyouyugroup/Stock/blob/master/21.png)
+![](https://github.com/chuochuoyouyugroup/Stock/blob/master/21.png)
 
 ### 数据流程图：
 
